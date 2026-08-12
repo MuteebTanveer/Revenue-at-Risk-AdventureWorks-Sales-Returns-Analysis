@@ -1,4 +1,8 @@
 # Revenue at Risk: AdventureWorks Sales & Returns Analysis
+<img width="745" height="431" alt="image" src="https://github.com/user-attachments/assets/71b8696c-b4c1-4448-a009-d38ac5dbcf3d" />
+<img width="744" height="431" alt="image" src="https://github.com/user-attachments/assets/6e54ef25-a436-4292-a37c-a1d0b41a8c3b" />
+<img width="745" height="429" alt="image" src="https://github.com/user-attachments/assets/c33b07ab-cc72-4ef1-af09-15c1e6dc4d82" />
+
 
 ## Overview
 A Power BI case study analyzing 3 years (2020–2022) of AdventureWorks sales data — approached as a Business Analyst investigating a business problem, not just building another dashboard. The goal was to answer the questions a CEO would actually ask, not just report revenue by month.
